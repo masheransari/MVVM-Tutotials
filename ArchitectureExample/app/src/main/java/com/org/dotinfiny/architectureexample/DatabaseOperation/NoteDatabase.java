@@ -30,7 +30,6 @@ public abstract class NoteDatabase extends RoomDatabase {
         @Override
         public void onCreate(@NonNull SupportSQLiteDatabase db) {
             super.onCreate(db);
-            
             //Call this populate class to insert data in database
             new PopulateDbAsyncTask(instance).execute();
         }

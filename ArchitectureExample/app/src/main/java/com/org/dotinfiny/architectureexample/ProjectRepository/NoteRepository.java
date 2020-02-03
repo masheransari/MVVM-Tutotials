@@ -1,4 +1,4 @@
-package com.org.dotinfiny.architectureexample;
+package com.org.dotinfiny.architectureexample.ProjectRepository;
 
 import android.app.Application;
 import android.os.AsyncTask;
