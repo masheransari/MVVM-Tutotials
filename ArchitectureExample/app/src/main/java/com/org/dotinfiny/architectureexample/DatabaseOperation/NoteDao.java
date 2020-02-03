@@ -1,4 +1,4 @@
-package com.org.dotinfiny.architectureexample;
+package com.org.dotinfiny.architectureexample.DatabaseOperation;
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
 import androidx.room.Delete;

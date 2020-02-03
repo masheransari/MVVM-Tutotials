@@ -1,4 +1,4 @@
-package com.org.dotinfiny.architectureexample;
+package com.org.dotinfiny.architectureexample.DatabaseOperation;
 
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
