@@ -26,7 +26,7 @@ public class NoteViewModel extends AndroidViewModel {
         repository.insert(note);
     }
 
-    public void udpate(Note note) {
+    public void update(Note note) {
         repository.update(note);
     }
 
